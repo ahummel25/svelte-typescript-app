@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:5000",
+  "experimentalComponentTesting": true,
+  "componentFolder": "src",
+  "testFiles": "**/*spec.ts",
+  "fixturesFolder": false,
+  "supportFile": false
+}
